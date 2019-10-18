@@ -30,6 +30,7 @@ public class Practice07Test {
 			}
 			return false;
 		} catch (Exception e) {
+			e.printStackTrace();
 			return false;
 		}
 	}
